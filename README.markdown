@@ -1,3 +1,9 @@
+# Hi guy! This is my blog! :D
+
+Yeah! My awesome blog is here, and if you wanna increase the value of my discussions, you can create one issue or send me one PR here.
+
+I'm also using [Octopress](http://octopress.org/), so if you wanna run this locally, or send me some enhancement is pretty simple :)
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
