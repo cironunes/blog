@@ -1,4 +1,4 @@
-f---
+---
 layout: post
 title: "AngularJS: Melhores práticas - Parte I: Iniciando um projeto"
 date: 2013-03-10 16:01
