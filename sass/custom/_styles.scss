@@ -6,13 +6,13 @@
 	    src: url('/font/LeagueGothic.otf');
     }
 
-    a:visited, #content .blog-index article h1 a:hover { color: #F2583E; }
+    a:visited, #content .blog-index article h1 a:hover { color: #3EC238; }
 
 
     /* ----- main layout ----- */
 
 
-    html { background: #262C33 url("../images/background.png"); }
+    html { background: #E9E9E9; }
 
     body { font-size: 1em; }
 
@@ -94,7 +94,7 @@
 
 	aside.sidebar section h1 { letter-spacing: 0.1em; }
 
-	aside.sidebar a { text-decoration: none; }
+	aside.sidebar a { text-decoration: none; color: #3EC238; }
 
 	.toggle-sidebar{display: none;}
 
@@ -181,3 +181,33 @@
 	  }
 	  }
 
+.brand {
+	font-size: 30px;
+	line-height: 25px;
+	padding-bottom: 20px !important;
+	text-align: center;
+
+	small {
+		font-size: 11px;
+		display: block;
+		text-transform: uppercase;
+		color: #777;
+	}
+
+	a {
+		color: #444 !important;
+		white-space: normal !important;
+	}
+}
+
+.nav-main {
+	margin-top: 10px;
+	font-size: 15px;
+
+	text-align: center;
+
+	> li {
+		border: 0 !important;
+		box-shadow: none !important;
+	}
+}
