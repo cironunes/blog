@@ -1,4 +1,4 @@
-# Hi guy! This is my blog! :D
+# Hello dude! This is my blog! :D
 
 Yeah! My awesome blog is here, and if you wanna increase the value of my discussions, you can create one issue or send me one PR here.
 
