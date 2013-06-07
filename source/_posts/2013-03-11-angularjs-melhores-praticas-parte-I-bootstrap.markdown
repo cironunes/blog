@@ -1,18 +1,20 @@
 ---
 layout: post
-title: "AngularJS: Melhores práticas - Parte I: Iniciando um projeto"
+title: "AngularJS: Melhores práticas - Parte I: Iniciando projetos"
 date: 2013-03-10 16:01
 comments: true
-categories: angularjs, yeoman, workflow
+categories: [angularjs, yeoman, workflow, best pratices]
 ---
 
 {% img center /images/posts/cover-bestpratices.jpg %}
 
 Melhores práticas são como fórmulas mágicas para ajudar na organização do seu projeto, documentadas por desenvolvedores que tiveram sucesso usando elas em diversas situações.
 
-<!-- more -->
+Nesta série vou compartilhar algumas técnicas que tornam meu trabalho cada vez mais simples e divertido.
 
-As práticas compartilhadas nesta série foram baseadas [neste vídeo](http://www.youtube.com/watch?v=ZhfUv0spHCY&feature=g-user-u).
+Essas práticas foram baseadas [neste vídeo](http://www.youtube.com/watch?v=ZhfUv0spHCY&feature=g-user-u) e nas minhas experiências diárias.
+
+<!-- more -->
 
 ## Por que eu preciso organizar meu projeto?
 - **Facilitar a manutenção**
@@ -20,7 +22,10 @@ As práticas compartilhadas nesta série foram baseadas [neste vídeo](http://ww
 - **Identificar problemas antecipadamente**
 
 ## Navegue pela série
-- [Parte I - Iniciando um projeto e a estrutura de diretórios](/angularjs-melhores-praticas-parte-i-bootstrap)
+- [Parte I - Iniciando um projeto e a estrutura de diretórios](/angularjs-melhores-praticas-parte-I-bootstrap)
+- [Parte II - Carregamento de scripts](/angularjs-melhores-praticas-parte-II-carregamento)
+- Parte III - Dicas e truques
+- Parte IV - MVC
 
 ## Iniciar um projeto e a estrutura de diretórios
 Esta é a etapa mais importante, e pode definir o sucesso ou fracasso do nosso projeto. Aqui surgem várias dúvidas e teremos bastante trabalho:
