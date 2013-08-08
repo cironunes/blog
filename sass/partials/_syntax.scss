@@ -1,8 +1,10 @@
-.highlight, html .gist .gist-file .gist-syntax .gist-highlight {
+// html .gist .gist-file .gist-syntax .gist-highlight,
+.highlight {
   table td.code { width: 100%; }
   border: 1px solid $pre-border !important;
 }
-.highlight .line-numbers, html .gist .gist-file .gist-syntax .highlight .line_numbers {
+// html .gist .gist-file .gist-syntax .highlight .line_numbers,
+.highlight .line-numbers {
   text-align: right;
   font-size: 13px;
   line-height: 1.45em;
@@ -22,65 +24,67 @@
   @include border-radius(0);
 }
 
-figure.code, .gist-file, pre {
+figure.code,
+// .gist-file,
+pre {
   @include box-shadow(rgba(#000, .06) 0 0 10px);
   .highlight pre { @include box-shadow(none); }
 }
 
-.gist .highlight, figure.code .highlight {
+// .gist .highlight,
+figure.code .highlight {
   @include selection(adjust-color($base03, $lightness: 23%, $saturation: -65%), $text-shadow: $base03 0 1px);
 }
-html .gist .gist-file {
-  margin-bottom: 1.8em;
-  position: relative;
-  border: none;
-  padding-top: image-height("code_bg.png") !important;
-  .highlight {
-    width: 100%;
-    margin-bottom: 0;
-  }
-  .gist-syntax {
-    border-bottom: 0 !important;
-    background: none !important;
-    .gist-highlight {
-      background: $base03 !important;
-    }
-    .highlight pre {
-      @extend .pre-code;
-      padding: 0;
-    }
-  }
-  .gist-meta {
-   padding: .6em 0.8em;
-   border: 1px solid lighten($base02, 2) !important;
-   color: $base01;
-   font-size: .7em !important;
-   @if $solarized == light {
-     background: lighten($base03, 2) $noise-bg;
-     border: 1px solid $pre-border !important;
-     border-top: 1px solid lighten($base03, 2) !important;
-   } @else {
-     background: $base02 $noise-bg;
-   }
-   @extend .sans;
-   line-height: 1.5em;
-    a {
-      color: mix($base1, $base01) !important;
-      @include hover-link;
-      &:hover { color: $base1 !important; }
-    }
-    a[href*='#file'] {
-      position: absolute; top: 0; left:0; right:-10px;
-      color: #474747 !important;
-      @extend .code-title;
-      &:hover { color: $link-color !important; }
-    }
-    a[href*=raw]{
-      @extend .download-source;
-      top: .4em;
-    }
-  }
-}
+// html .gist .gist-file {
+//   margin-bottom: 1.8em;
+//   position: relative;
+//   border: none;
+//   padding-top: image-height("code_bg.png") !important;
+//   .highlight {
+//     margin-bottom: 0;
+//   }
+//   .gist-syntax {
+//     border-bottom: 0 !important;
+//     background: none !important;
+//     .gist-highlight {
+//       background: $base03 !important;
+//     }
+//     .highlight pre {
+//       @extend .pre-code;
+//       padding: 0;
+//     }
+//   }
+//   .gist-meta {
+//    padding: .6em 0.8em;
+//    border: 1px solid lighten($base02, 2) !important;
+//    color: $base01;
+//    font-size: .7em !important;
+//    @if $solarized == light {
+//      background: lighten($base03, 2) $noise-bg;
+//      border: 1px solid $pre-border !important;
+//      border-top: 1px solid lighten($base03, 2) !important;
+//    } @else {
+//      background: $base02 $noise-bg;
+//    }
+//    @extend .sans;
+//    line-height: 1.5em;
+//     a {
+//       color: mix($base1, $base01) !important;
+//       @include hover-link;
+//       &:hover { color: $base1 !important; }
+//     }
+//     a[href*='#file'] {
+//       position: absolute; top: 0; left:0; right:-10px;
+//       color: #474747 !important;
+//       @extend .code-title;
+//       &:hover { color: $link-color !important; }
+//     }
+//     a[href*=raw]{
+//       @extend .download-source;
+//       top: .4em;
+//     }
+//   }
+// }
 pre {
   background: $pre-bg $noise-bg;
   @include border-radius(.4em);
@@ -194,9 +198,10 @@ p, li {
   div { .gd, .gd .x, .gi, .gi .x { display: inline-block; width: 100%; }}
 }
 
-.highlight, .gist-highlight {
+// .gist-highlight,
+.highlight {
   pre { background: none; @include border-radius(0px); border: none; padding: 0; margin-bottom: 0; }
-  margin-bottom: 1.8em;
+  // margin-bottom: 1.8em;
   background: $base03;
   overflow-y: hidden;
   overflow-x: auto;
@@ -209,7 +214,9 @@ $solar-scroll-thumb: rgba(#fff, .2);
   $solar-scroll-thumb: rgba(#000, .15);
 }
 
-pre, .highlight, .gist-highlight {
+pre,
+// .gist-highlight,
+.highlight {
   &::-webkit-scrollbar {  height: .5em; background: $solar-scroll-bg; }
   &::-webkit-scrollbar-thumb:horizontal { background: $solar-scroll-thumb;  -webkit-border-radius: 4px; border-radius: 4px }
 }
@@ -260,3 +267,84 @@ figure.code {
   text-shadow: #cbcccc 0 1px 0;
   padding-left: 3em;
 }
+
+
+
+
+/*  SOLARIZED GIST SYNTAX HIGHLIGHTING
+    Based on the color palette by Ethan Schoonover: http://ethanschoonover.com/solarized
+*/
+
+
+.gist {-webkit-font-smoothing:subpixel-antialiased;}
+.gist ::-moz-selection {color:#FCF4DC;background:#fff;}
+.gist ::-webkit-selection {color:#FCF4DC;background:#fff;}
+.gist ::selection {color:#FCF4DC;background:#fff;}
+.gist {color:#819090 !important;}
+.gist .gist-file {font-family:'Anonymous Pro','Droid Sans Mono','DejaVu Sans Mono',Monaco,Consolas,'Lucida Console',Courier,monospace !important;}
+.gist .gist-file .gist-meta {color:#475B62 !important;background-color:#042029 !important;}
+.gist .gist-file .gist-meta a {color: #EAE3CB !important;}
+.gist .gist-file .gist-meta a {color: #819090 !important;}
+.gist .gist-file .gist-data {background-color:#0A2933 !important;}
+.gist .gist-file .gist-data pre {font-family:'Anonymous Pro','Droid Sans Mono','DejaVu Sans Mono',Monaco,Consolas,'Lucida Console',Courier,monospace !important;}
+.gist .gist-file .gist-data .gist-line-numbers {color:#475B62 !important;background-color:#042029 !important;}
+.gist-syntax {background:#708284 !important;}
+.gist-syntax .c {color:#536870 !important;} /* Comment */
+.gist-syntax .err {color:#708284 !important;} /* Error */
+.gist-syntax .k {color:#2176C7 !important;} /* Keyword */
+.gist-syntax .o {color:#708284 !important;} /* Operator */
+.gist-syntax .cm {color:#536870 !important;} /* Comment.Multiline */
+.gist-syntax .cp {color:#536870 !important;} /* Comment.Preproc */
+.gist-syntax .c1 {color:#536870 !important;} /* Comment.Single */
+.gist-syntax .cs {color:#536870 !important;} /* Comment.Special */
+.gist-syntax .gd {color:#708284 !important;background:#042029 !important;} /* Generic.Deleted */
+.gist-syntax .gd .x {color:#708284 !important;background:#042029 !important;} /* Generic.Deleted.Specific */
+.gist-syntax .ge {color:#708284 !important;} /* Generic.Emph */
+.gist-syntax .gr {color:#708284 !important;} /* Generic.Error */
+.gist-syntax .gh {color:#708284 !important;} /* Generic.Heading */
+.gist-syntax .gi {color:#708284 !important;background:#042029 !important;} /* Generic.Inserted */
+.gist-syntax .gi .x {color:#708284 !important;background:#042029 !important;} /* Generic.Inserted.Specific */
+.gist-syntax .go {color:#708284 !important;} /* Generic.Output */
+.gist-syntax .gp {color:#708284 !important;} /* Generic.Prompt */
+.gist-syntax .gu {color:#708284 !important;} /* Generic.Subheading */
+.gist-syntax .gt {color:#708284 !important;} /* Generic.Traceback */
+.gist-syntax .kc {color:#738A05 !important;} /* Keyword.Constant */
+.gist-syntax .kd {color:#738A05 !important;} /* Keyword.Declaration */
+.gist-syntax .kp {color:#708284 !important;} /* Keyword.Pseudo */
+.gist-syntax .kr {color:#708284 !important;} /* Keyword.Reserved */
+.gist-syntax .kt {color:#708284 !important;} /* Keyword.Type */
+.gist-syntax .m {color:#259286 !important;} /* Literal.Number */
+.gist-syntax .s {color:#259286 !important;} /* Literal.String */
+.gist-syntax .na {color:#536870 !important;} /* Name.Attribute */
+.gist-syntax .nb {color:#A57706 !important;} /* Name.Builtin */
+.gist-syntax .nc {color:#708284 !important;} /* Name.Class */
+.gist-syntax .nd {color:#595AB7 !important;} /* */
+.gist-syntax .no {color:#708284 !important;} /* Name.Constant */
+.gist-syntax .ni {color:#708284 !important;} /* Name.Entity */
+.gist-syntax .ne {color:#708284 !important;} /* Name.Exception */
+.gist-syntax .nf {color:#708284 !important;} /* Name.Function */
+.gist-syntax .nn {color:#708284 !important;} /* Name.Namespace */
+.gist-syntax .nt {color:#2176C7 !important;} /* Name.Tag */
+.gist-syntax .nv {color:#708284 !important;} /* Name.Variable */
+.gist-syntax .ow {color:#708284 !important;} /* Operator.Word */
+.gist-syntax .w {color:#708284 !important;} /* Text.Whitespace */
+.gist-syntax .mf {color:#259286 !important;} /* Literal.Number.Float */
+.gist-syntax .mh {color:#259286 !important;} /* Literal.Number.Hex */
+.gist-syntax .mi {color:#259286 !important;} /* Literal.Number.Integer */
+.gist-syntax .mo {color:#259286 !important;} /* Literal.Number.Oct */
+.gist-syntax .sb {color:#259286 !important;} /* Literal.String.Backtick */
+.gist-syntax .sc {color:#259286 !important;} /* Literal.String.Char */
+.gist-syntax .sd {color:#259286 !important;} /* Literal.String.Doc */
+.gist-syntax .s2 {color:#259286 !important;} /* Literal.String.Double */
+.gist-syntax .se {color:#259286 !important;} /* Literal.String.Escape */
+.gist-syntax .sh {color:#259286 !important;} /* Literal.String.Heredoc */
+.gist-syntax .si {color:#259286 !important;} /* Literal.String.Interpol */
+.gist-syntax .sx {color:#A57706 !important;} /* Literal.String.Other */
+.gist-syntax .sr {color:#259286 !important;} /* Literal.String.Regex */
+.gist-syntax .s1 {color:#259286 !important;} /* Literal.String.Single */
+.gist-syntax .ss {color:#259286 !important;} /* Literal.String.Symbol */
+.gist-syntax .bp {color:#708284 !important;} /* Name.Builtin.Pseudo */
+.gist-syntax .vc {color:#708284 !important;} /* Name.Variable.Class */
+.gist-syntax .vg {color:#708284 !important;} /* Name.Variable.Global */
+.gist-syntax .vi {color:#708284 !important;} /* Name.Variable.Instance */
+.gist-syntax .il {color:#708284 !important;} /* Literal.Number.Integer.Long */

@@ -6,7 +6,7 @@ comments: true
 categories: [angularjs, yeoman, workflow, best pratices]
 ---
 
-{% img center /images/posts/cover-bestpratices.jpg %}
+{% img center /images/posts/cover-bestpratices-bootstrap.jpg %}
 
 Melhores práticas são como fórmulas mágicas para ajudar na organização do seu projeto, documentadas por desenvolvedores que tiveram sucesso usando elas em diversas situações.
 
