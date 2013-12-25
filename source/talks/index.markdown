@@ -9,6 +9,15 @@ footer: true
 
 Aqui você encontra minhas palestras com vídeos e slides quando disponíveis.
 
+## Single Page Apps FTW! <small>- [Slides](https://speakerdeck.com/cironunes/single-page-apps-ftw-revisited)</small>
+
+** Apresentado em: **
+
+- [RuPy](http://rupy.com.br/)
+- [Front in Recife](http://frontinrecife.com.br/)
+
+{% youtube IiTz6EVjHnc %}
+
 ## Realtime com AngularJS e Socket IO <small>- [Slides](http://cironunes.realtime-presentation.jit.su/)</small>
 
 ** Apresentado em: **
