@@ -9,7 +9,7 @@ footer: true
 
 Aqui você encontra minhas palestras com vídeos e slides quando disponíveis.
 
-## Single Page Apps FTW! <small>- [Slides](https://speakerdeck.com/cironunes/single-page-apps-ftw-revisited)</small>
+## Single Page Apps FTW! <small>- [Slides](https://speakerdeck.com/cironunes/single-page-apps-ftw-revisited) + [Demo](http://github.com/cironunes/spa-sample)</small>
 
 ** Apresentado em: **
 
