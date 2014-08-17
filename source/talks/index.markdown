@@ -7,7 +7,13 @@ sharing: true
 footer: true
 ---
 
-Aqui você encontra minhas palestras com vídeos e slides quando disponíveis.
+Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com vídeos e slides quando disponíveis.
+
+
+## Próximos eventos
+
+- Front in Sampa [São Paulo - SP] (25 de Outubro - 2014)
+- Front in Maceío [Maceió - AL] (15 de Novembro - 2014)
 
 ## Single Page Apps FTW! <small>- [Slides](https://speakerdeck.com/cironunes/single-page-apps-ftw-revisited) + [Demo](http://github.com/cironunes/spa-sample)</small>
 
