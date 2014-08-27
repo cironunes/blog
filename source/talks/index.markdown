@@ -12,8 +12,22 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## Próximos eventos
 
-- Front in Sampa [São Paulo - SP] (25 de Outubro - 2014)
-- Front in Maceío [Maceió - AL] (15 de Novembro - 2014)
+### [Simpósio Mineiro de Engenharia de Software](http://www.gdgbh.org/puc_minas_08_14.html)
+- **Onde:** Belo Horizonte - MG
+- **Quando:** 28 de Agosto - 2014
+
+### [W3C Web.br](http://conferenciaweb.w3c.br/)
+- **Onde:** São Paulo - SP
+- **Quando:** 25 de Setembro - 2014
+
+### [Front in Sampa](http://frontinsampa.com.br/)
+- **Onde:** São Paulo - SP
+- **Quando:** 25 de Outubro - 2014
+
+### [Front in Maceío](http://frontinmaceio.com.br/)
+- **Onde:** Maceío - AL
+- **Quando:** 15 de Novembro - 2014
+
 
 ## Single Page Apps FTW! <small>- [Slides](https://speakerdeck.com/cironunes/single-page-apps-ftw-revisited) + [Demo](http://github.com/cironunes/spa-sample)</small>
 
