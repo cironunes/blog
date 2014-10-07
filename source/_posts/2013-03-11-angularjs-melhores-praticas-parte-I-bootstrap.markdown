@@ -28,7 +28,7 @@ Essas práticas foram baseadas [neste vídeo](http://www.youtube.com/watch?v=Zhf
 - Parte IV - MVC
 
 ## Iniciar um projeto e a estrutura de diretórios
-Esta é a etapa mais importante, e pode definir o sucesso ou fracasso do nosso projeto. Aqui surgem várias dúvidas e teremos bastante trabalho:
+Esta é uma etapa simples, mas que pode definir o sucesso ou fracasso do nosso projeto. Portanto, a primeira parte da série é destinada a responder algumas dúvidas:
 
 - Como organizar a estrutura de diretórios? (Criar os diretórios manualmente)
 - Quais serão as dependências? (Baixar cada uma e adicionar manualmente no projeto)
