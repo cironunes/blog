@@ -12,10 +12,6 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## Próximos eventos
 
-### [GDG DevFest Nordeste](http://2014.devfestne.com.br/)
-- **Onde:** Aracaju - AL
-- **Quando:** 18 de Outubro - 2014
-
 ### [Front in Sampa](http://frontinsampa.com.br/)
 - **Onde:** São Paulo - SP
 - **Quando:** 25 de Outubro - 2014
@@ -31,16 +27,30 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## Eventos passados
 
-### [Simpósio Mineiro de Engenharia de Software](http://www.gdgbh.org/puc_minas_08_14.html)
-- **Onde:** Belo Horizonte - MG
-- **Quando:** 28 de Agosto - 2014
+### [GDG DevFest Nordeste](http://2014.devfestne.com.br/)
+- **Onde:** Aracaju - SE
+- **Quando:** 18 de Outubro - 2014
 
 ### [W3C Web.br](http://conferenciaweb.w3c.br/)
 - **Onde:** São Paulo - SP
 - **Quando:** 25 de Setembro - 2014
 
+### [Simpósio Mineiro de Engenharia de Software](http://www.gdgbh.org/puc_minas_08_14.html)
+- **Onde:** Belo Horizonte - MG
+- **Quando:** 28 de Agosto - 2014
 
-## Criando Componentes AngularJS <small>- [Slides](https://speakerdeck.com/cironunes/criando-componentes-angularjs)
+
+
+## Então você quer aprender AngularJS?
+
+** Apresentado em: **
+
+- [GDG DevFest Nordeste](2014.devfestne.com.br)
+
+{% speakerdeck 210b1d20390001329c3f167618ddf14d %}
+
+
+## Criando Componentes AngularJS <small>- [Slides](https://speakerdeck.com/cironunes/criando-componentes-angularjs)</small>
 
 ** Apresentado em: **
 
