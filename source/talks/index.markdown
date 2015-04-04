@@ -12,9 +12,48 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## Próximos eventos
 
+## 2015
+
+### [JSConf UY](https://jsconf.uy/)
+- **Onde**: Montevideo - Uruguai
+- **Quando**: 24 de Abril - 2015
+
+
+## Eventos passados
+
+## 2014
+
+### [[AngularJS SP] The Future is here](http://www.meetup.com/AngularJS-Sao-Paulo/events/181980392/)
+- **Onde**: São Paulo - SP
+- **Quando**: 20 de Junho - 2014
+
+### [TDC](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-front-end)
+- **Onde:** São Paulo - SP
+- **Quando:** 6 de Agosto - 2014
+
+### [Simpósio Mineiro de Engenharia de Software](http://www.gdgbh.org/puc_minas_08_14.html)
+- **Onde:** Belo Horizonte - MG
+- **Quando:** 28 de Agosto - 2014
+
+### [W3C Web.br](http://conferenciaweb.w3c.br/)
+- **Onde:** São Paulo - SP
+- **Quando:** 25 de Setembro - 2014
+
+### [Front-end Carioca](http://frontendcarioca.com.br/)
+- **Onde:** Rio de Janeiro - RJ
+- **Quando:** 27 de Setembro - 2014
+
+### [GDG DevFest Nordeste](http://2014.devfestne.com.br/)
+- **Onde:** Aracaju - SE
+- **Quando:** 18 de Outubro - 2014
+
 ### [Front in Sampa](http://frontinsampa.com.br/)
 - **Onde:** São Paulo - SP
 - **Quando:** 25 de Outubro - 2014
+
+### [ng-hello-world](http://www.meetup.com/AngularJS-BH/events/214806252/)
+- **Onde:** Belo Horizonte - MG
+- **Quando:** 5 de Novembro - 2014
 
 ### [Front in Maceío](http://frontinmaceio.com.br/)
 - **Onde:** Maceío - AL
@@ -25,27 +64,12 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 - **Quando:** 22 de Novembro - 2014
 
 
-## Eventos passados
-
-### [GDG DevFest Nordeste](http://2014.devfestne.com.br/)
-- **Onde:** Aracaju - SE
-- **Quando:** 18 de Outubro - 2014
-
-### [W3C Web.br](http://conferenciaweb.w3c.br/)
-- **Onde:** São Paulo - SP
-- **Quando:** 25 de Setembro - 2014
-
-### [Simpósio Mineiro de Engenharia de Software](http://www.gdgbh.org/puc_minas_08_14.html)
-- **Onde:** Belo Horizonte - MG
-- **Quando:** 28 de Agosto - 2014
-
-
-
 ## Então você quer aprender AngularJS?
 
 ** Apresentado em: **
 
 - [GDG DevFest Nordeste](2014.devfestne.com.br)
+- [GDG DevFest SP](http://sp.devfest.com.br/)
 
 {% speakerdeck 210b1d20390001329c3f167618ddf14d %}
 
