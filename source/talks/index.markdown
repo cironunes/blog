@@ -18,6 +18,9 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 - **Onde**: Montevideo - Uruguai
 - **Quando**: 24 de Abril - 2015
 
+### [Imasters Developer Week - Belo Horizonte](http://developerweek.imasters.com.br/belo-horizonte/)
+- **Onde**: Belo Horizonte - MG
+- **Quando**: 26 de Maio - 2015
 
 ## Eventos passados
 
