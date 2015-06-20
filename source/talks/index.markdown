@@ -14,15 +14,24 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## 2015
 
-### [JSConf UY](https://jsconf.uy/)
-- **Onde**: Montevideo - Uruguai
-- **Quando**: 24 de Abril - 2015
+### [Front-end Carioca](http://frontendcarioca.com.br/)
+- **Onde**: Rio de Janeiro - RJ
+- **Quando**: 26 de Setembro - 2015
+
+
+## Eventos passados
+
+
+## 2015
 
 ### [Imasters Developer Week - Belo Horizonte](http://developerweek.imasters.com.br/belo-horizonte/)
 - **Onde**: Belo Horizonte - MG
 - **Quando**: 26 de Maio - 2015
 
-## Eventos passados
+### [JSConf UY](https://jsconf.uy/)
+- **Onde**: Montevideo - Uruguai
+- **Quando**: 24 de Abril - 2015
+
 
 ## 2014
 
@@ -66,6 +75,19 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 - **Onde:** São Paulo - SP
 - **Quando:** 22 de Novembro - 2014
 
+## O zen do Front-end com AngularJS
+
+- [Imasters Developer Week - Belo Horizonte](http://developerweek.imasters.com.br/belo-horizonte/)
+
+{% speakerdeck 829c9fffd7f94f40b5708b78a9002648 %}
+
+## The awesomeness of Angular 2
+
+** Apresentado em: **
+
+- [JSConf UY](https://jsconf.uy/)
+
+{% speakerdeck 8a4cad1c87904588827ae5ee1c3d1075 %}
 
 ## Então você quer aprender AngularJS?
 
@@ -93,6 +115,7 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 - [Front in Recife](http://frontinrecife.com.br/)
 
 {% youtube IiTz6EVjHnc %}
+{% speakerdeck 572eea3046fb0131727d1617c6a0bf4b %}
 
 ## Realtime com AngularJS e Socket IO <small>- [Slides](http://cironunes.realtime-presentation.jit.su/)</small>
 
