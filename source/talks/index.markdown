@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Palestras"
-date: 2013-03-24 21:52
-comments: true
+comments: false
 sharing: true
 footer: true
 ---

@@ -1,19 +1,21 @@
 ---
 layout: page
-title: "Sobre"
-date: 2013-03-24 22:28
-comments: true
+title: "Olá, meu nome é Ciro!"
+comments: false
 sharing: true
 footer: true
 ---
 
+Tenho 23 anos, sou Front-end Engineer, moro em Belo Horizonte, trabalho na [Questrade](http://questrade.com/) e sou Google Developer Expert em AngularJS.
 
-## Olá, Meu nome é Ciro!
+Como [palestrante](/talks/), participei de conferências como o 
+[JSConf UY](http://jsconf.uy), Front in Sampa, Front in BH, Front in Recife, 
+Front-end Carioca, TDC, GDG DevFest, [RioJS](http://riojs.org/) 
+e [SampaJS](http://sampajs.com.br/pos/).
 
-Tenho 21 anos, sou Front-end Engineer e Agile Coach, moro em São Paulo e trabalho na [Kanui](http://kanui.com.br/).
+Me interesso por arquiteturas Front-end de larga escala, testes automatizados,
+boas práticas, design patterns, performance e ferramentas.
 
-Como [palestrante](/talks/), participei de conferências como o [RioJS](http://riojs.org/) e [SampaJS](http://sampajs.com.br/pos/).
+Como Desenvolvedor já trabalhei também na [Ideais](http://ideais.com.br/), na [Kanui](http://kanui.com) e 
+na [Avenue Code](http://avenuecode.com).
 
-Me interesso por arquiteturas Front-end de larga escala, testes automatizados, boas práticas, design patterns, performance, controle de versão e ferramentas.
-
-Como Desenvolvedor já trabalhei também na [Ideais](http://ideais.com.br/).
