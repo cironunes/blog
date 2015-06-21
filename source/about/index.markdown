@@ -6,7 +6,9 @@ sharing: true
 footer: true
 ---
 
-Tenho 23 anos, sou Front-end Engineer, moro em Belo Horizonte, trabalho na [Questrade](http://questrade.com/) e sou Google Developer Expert em AngularJS.
+Tenho 23 anos, sou Front-end Engineer, moro em Belo Horizonte, trabalho na 
+[Questrade](http://questrade.com/) e sou 
+[Google Developer Expert](https://developers.google.com/experts/people/ciro-nunes) em AngularJS.
 
 Como [palestrante](/talks/), participei de conferências como o 
 [JSConf UY](http://jsconf.uy), Front in Sampa, Front in BH, Front in Recife, 
