@@ -13,6 +13,10 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## 2015
 
+### [Webbr](http://conferenciaweb.w3c.br/)
+- **Onde**: São Paulo - SP
+- **Quando**: 22 e 23 de Setembro - 2015
+
 ### [Front-end Carioca](http://frontendcarioca.com.br/)
 - **Onde**: Rio de Janeiro - RJ
 - **Quando**: 26 de Setembro - 2015
