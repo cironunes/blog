@@ -13,7 +13,11 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## 2015
 
-### [Webbr](http://conferenciaweb.w3c.br/)
+### [GDG Experience](http://www.gdgbh.org/gdgexperience)
+- **Onde**: Belo Horizonte - MG
+- **Quando**: 19 de Setembro - 2015
+
+### [W3C Web.br](http://conferenciaweb.w3c.br/)
 - **Onde**: São Paulo - SP
 - **Quando**: 22 e 23 de Setembro - 2015
 
