@@ -11,7 +11,21 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 
 ## Próximos eventos
 
+> Nenhum evento na agenda! :)
+
+
+## Eventos passados
+
+
 ## 2015
+
+### [Front in Manaus](http://frontinmanaus.com.br/)
+- **Onde**: Manaus - AM
+- **Quando**: 17 de Outubro - 2015
+
+### [Front in Aracaju](http://www.frontinaracaju.com.br/)
+- **Onde**: Aracaju - AL
+- **Quando**: 28 de Novembro - 2015
 
 ### [GDG Experience](http://www.gdgbh.org/gdgexperience)
 - **Onde**: Belo Horizonte - MG
@@ -24,12 +38,6 @@ Aqui você encontra minha agenda e o conteúdo das minhas palestras passadas com
 ### [Front-end Carioca](http://frontendcarioca.com.br/)
 - **Onde**: Rio de Janeiro - RJ
 - **Quando**: 26 de Setembro - 2015
-
-
-## Eventos passados
-
-
-## 2015
 
 ### [Imasters Developer Week - Belo Horizonte](http://developerweek.imasters.com.br/belo-horizonte/)
 - **Onde**: Belo Horizonte - MG
